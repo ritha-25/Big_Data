@@ -78,15 +78,48 @@ Busiest days	Friday and Saturday
 Peak ride hours	7–9 AM and 5–7 PM
 Most active pickup zones	Manhattan, JFK Airport, and tourist hotspots
 Fare outliers	Detected and removed during data cleaning
+Recommendations
+1.Optimize Driver Allocation During Peak Hours
+Based on the spike in ride activity during early mornings and late evenings, 
+Uber should ensure higher driver availability during these hours to reduce wait times and maximize fare revenue.
+
+2.Promote Off-Peak Discounts
+Encourage ridership during low-demand periods (such as midday and late nights) by offering discounted fares or
+loyalty-based promotions to improve vehicle utilization ,and driver earnings.
+
+3.Enhance Dynamic Pricing Strategy
+Since fare amounts increase with distance and at peak times, 
+Uber can refine its pricing algorithm using these patterns to balance affordability with profitability.
+
+4.Focus Marketing on High-Demand Weekdays
+The data highlights specific weekdays with higher ride frequencies. 
+Uber can use this insight to schedule targeted promotions or incentives to increase usage on these days.
+
+5.Improve Mapping Accuracy in Dense Pickup Areas
+The map visualization shows concentrated pickup locations in central urban zones. 
+Enhancing GPS accuracy and driver routing in these areas can lead to more efficient pickups and better user experiences.
+
+6.Incorporate Real-Time Weather Data (for future improvement)
+If weather data becomes available, 
+integrating it into fare analysis could help improve ride forecasts ,
+and better prepare for changes in rider behavior due to weather conditions.
+
+7.Use Distance-Based Fare Predictions in the App
+Providing clear, distance-based fare estimations to users before booking can increase transparency 
+,and build rider trust, especially for longer routes.
 
 As Conclusion
-The Uber Fares dataset provides valuable insights into user behavior, pricing trends, and ride demand. By combining Python’s data processing power with Power BI’s visualization tools, we successfully built a flexible and informative dashboard. This setup allows business stakeholders to interact with the data and make informed decisions.
+The Uber Fares dataset provides valuable insights into user behavior, pricing trends, and ride demand. 
+By combining Python’s data processing power with Power BI’s visualization tools, 
+we successfully built a flexible and informative dashboard. 
+This setup allows business stakeholders to interact with the data and make informed decisions.
 
 In this report you can find following files in this big_data_repo
 
 uber_cleaned.csv and uber_enhanced.csv 
 big_assign.pbix (Power BI dashboard)
 uber_notebook.ipynb 
+[More are in read me](README.md)
 
 Student: INGABIRE NZARAMBA Ritha
 Course: INSY 8413 – Introduction to Big Data Analytics
