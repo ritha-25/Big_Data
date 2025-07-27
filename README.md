@@ -34,7 +34,7 @@ The dashboard helps users:
 ### Dashboard Preview  
 [Dashboard](uber_dashboard.png)
 ## Understanding dataset
-(understanding dataset.png)
+[Understanding](understanding dataset.png)
 
 ### Cleaning Phase  
 [Cleaning](clean_data.png)
