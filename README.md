@@ -31,6 +31,10 @@ Python was used to:
 ### Cleaning Phase  
 [Cleaning](clean_data.png)
 ## Graphs sample
+## box code
+[Box plot](boxplot.png)
+## box code
+[Box_code](boxplot_code.png)
 ## Graph code
 [Fare_code](fare_distribution_graph_code.png)
 ## Fare distribution
