@@ -32,20 +32,20 @@ The dashboard helps users:
 - Geographically knowing how data are analysed.
   
 ### Dashboard Preview  
-![Dashboard](screenshots/uber_dashboard_view.png)
+[Dashboard](uber_dashboard.png)
+## Understanding dataset
+(understanding dataset.png)
 
 ### Cleaning Phase  
-![Cleaning](screenshots/data_cleaning_steps.png)
+[Cleaning](clean_data.png)
 
 ### Pickup Locations  
-![Map](screenshots/trip_map.png)
+[Map](mappowerbi.png)
 
----
-
-## 📄 Final Report
+##  Final Report
 
 The full analysis, methodology, results, and business recommendations are available in:  
-**`/report/final_report.md`**
+**Report of uber data analysis.
 
 ##  Course Details
 
