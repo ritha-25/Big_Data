@@ -40,6 +40,8 @@ Python was used to:
 ## Fare distribution
 [Fare distribution](fare_distribution_graph.png)
 ## Power BI Dashboard
+[Power BI Link]([https://your-link-here.com](https://drive.google.com/file/d/1Egeu8xTyTVxENkeifwv39tSMBJApBiiN/view?usp=drive_link)
+
 
 The dashboard helps users:
 - View fare trends across hours, days, and months
@@ -61,16 +63,16 @@ The dashboard helps users:
 ### Pickup Locations  
 [Map](mappowerbi.png)
 ##  Final Report
-
+[Click here to read the Final Analytical Report](Report of uber data analysis.md)
 The full analysis, methodology, results, and business recommendations are available in:  
-**Report of uber data analysis.
+Report of uber data analysis.
 
 ##  Course Details
 
-- **Course: *Introduction to Big Data Analytics  
+- Course: Introduction to Big Data Analytics  
 - **Instructor:** Eric Maniraguha  
 - **Tool Used:** Power BI Desktop  
-- **Time:*July 2025
+- Time:July 2025
 
 Thanks for visiting the repository.  
 This project was built with a focus on learning, clarity, and practical insights into Uber ride data.
