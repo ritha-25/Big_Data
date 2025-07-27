@@ -1,0 +1,108 @@
+ Report About Uber Fares Dataset Analysis
+ Introduction
+This project involved analyzing Uber fare data using Python and Power BI to extract meaningful insights about ride behavior, pricing patterns, and location trends.
+The goal was to clean and prepare the dataset, engineer new analytical features, and visualize key metrics through an interactive dashboard.
+The work was carried out as part of the coursework for INSY 8413: Introduction to Big Data Analytics.
+
+Methodology
+1. Data Collection
+The dataset was sourced from Kaggle’s Uber Fares Dataset, which includes fare amounts, pickup and drop-off coordinates, timestamps, and passenger count.
+
+2. Data Cleaning (Python)
+Using Python (Pandas, NumPy), the dataset underwent several preprocessing steps:
+
+Removed missing and null values
+
+Filtered unrealistic fare amounts and negative passenger counts
+
+Restricted latitude and longitude to the NYC area
+
+Converted pickup time to datetime format
+
+3. Feature Engineering
+New columns were added to support time-based and spatial analysis:
+
+Hour, Day, Month, and Day of Week from pickup_datetime
+
+Distance (in kilometers) using the Haversine formula
+
+Peak vs. Off-Peak Indicator for rush-hour analysis
+
+Two datasets were exported:
+
+uber_cleaned.csv: Base cleaned data
+
+uber_enhanced.csv: Includes all additional features, used in Power BI
+
+4. Data Visualization (Power BI)
+The enhanced dataset was loaded into Power BI to create an interactive dashboard with the following key visuals:
+
+Histogram of Fare Amounts: Shows most trips cost between $5–$15
+
+Fare vs Distance (Scatter Plot): Reveals that longer distances result in higher fares
+
+Trips by Hour: Displays peak activity in early morning and evening
+
+Trips by Day of Week: Fridays and Saturdays see the highest volume
+
+Map of Pickup Locations: Most pickups happen around central NYC and major transport hubs
+
+Slicers and Filters: Allow users to filter by hour, weekday, fare range, and peak hours
+##Analysis
+1. Fare Distribution
+Most trips are short and cost less than $20
+
+A small number of trips show extremely high fares — identified as outliers
+
+2. Distance Relationship
+Fare and distance have a strong positive correlation
+
+Some anomalies exist (high fares for short trips), likely due to traffic or minimum fare policies
+
+3. Temporal Patterns
+Peak Hours: 7–9 AM and 5–7 PM
+
+Weekday vs Weekend: Weekends show a slight increase in longer trips and higher fares
+
+Seasonality: Monthly data shows fluctuations, which could align with tourism and events (subject to extended data)
+
+4. Geographic Analysis
+Dense pickup zones in Manhattan, JFK Airport, and downtown areas
+
+Less activity in outer boroughs and suburbs
+
+Key Metric	Observation
+Most common fare range	$5 – $15
+Strongest correlation	Fare vs Distance
+Busiest days	Friday and Saturday
+Peak ride hours	7–9 AM and 5–7 PM
+Most active pickup zones	Manhattan, JFK Airport, and tourist hotspots
+Fare outliers	Detected and removed during data cleaning
+
+As Conclusion
+The Uber Fares dataset provides valuable insights into user behavior, pricing trends, and ride demand. By combining Python’s data processing power with Power BI’s visualization tools, we successfully built a flexible and informative dashboard. This setup allows business stakeholders to interact with the data and make informed decisions.
+
+Based on the analysis:
+I would recommend to :
+Driver Allocation: Increase availability in central NYC during peak hours
+
+Surge Pricing: Adjust dynamically based on hour and weekday
+
+Marketing Focus: Promote off-peak ride discounts to balance demand
+
+Outlier Monitoring: Flag and review fares significantly higher than average
+
+📎 Attachments & Deliverables
+uber_cleaned.csv and uber_enhanced.csv (data folder)
+
+uber_dashboard.pbix (Power BI dashboard)
+
+eda_and_cleaning.py (Python script)
+
+Screenshots of visualizations and development stages
+
+Student: INGABIRE NZARAMBA Ritha
+Course: INSY 8413 – Introduction to Big Data Analytics
+Instructor: Eric Maniraguha
+Date: July 2025
+
