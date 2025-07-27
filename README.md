@@ -21,7 +21,18 @@ Python was used to:
 - Generate new features:
   - Hour of the day
   - Day of week
-
+    ## Uber_analysis steps
+    ## Importing libraries
+    [Library](Imports_to_be_used.png)
+    ## LOad rawdataset
+    [Load data](Load_rawset.png)
+   ## Understanding dataset
+[Understanding](understanding dataset.png)
+### Cleaning Phase  
+[Cleaning](clean_data.png)
+##Graphs sample
+[Fare_code](fare_distribution_graph_code.png)
+[Fare distribution](fare_distribution_graph.png)
 ## Power BI Dashboard
 
 The dashboard helps users:
@@ -31,13 +42,14 @@ The dashboard helps users:
 - See where most rides originate on a map
 - Geographically knowing how data are analysed.
   
-### Dashboard Preview  
+ 
+## Getting data from dataset to poweerbi
+[GetData](getdata_from_uber.png)
+### DAX Formula Preview 
+[Hour](Hour_calculation.png)
+[Distance](Distance_calculation.png)
+### Dashboard Preview 
 [Dashboard](uber_dashboard.png)
-## Understanding dataset
-[Understanding](understanding dataset.png)
-
-### Cleaning Phase  
-[Cleaning](clean_data.png)
 
 ### Pickup Locations  
 [Map](mappowerbi.png)
@@ -52,7 +64,7 @@ The full analysis, methodology, results, and business recommendations are availa
 - **Course: *Introduction to Big Data Analytics  
 - **Instructor:** Eric Maniraguha  
 - **Tool Used:** Power BI Desktop  
-- **Term:*July 2025
+- **Time:*July 2025
 
 Thanks for visiting the repository.  
 This project was built with a focus on learning, clarity, and practical insights into Uber ride data.
