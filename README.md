@@ -30,8 +30,10 @@ Python was used to:
 [Understanding](understanding dataset.png)
 ### Cleaning Phase  
 [Cleaning](clean_data.png)
-##Graphs sample
+## Graphs sample
+## Graph code
 [Fare_code](fare_distribution_graph_code.png)
+## Fare distribution
 [Fare distribution](fare_distribution_graph.png)
 ## Power BI Dashboard
 
@@ -45,15 +47,15 @@ The dashboard helps users:
  
 ## Getting data from dataset to poweerbi
 [GetData](getdata_from_uber.png)
-### DAX Formula Preview 
+## DAX Formula Preview 
+## Hour calculation
 [Hour](Hour_calculation.png)
+## Distance calculation
 [Distance](Distance_calculation.png)
 ### Dashboard Preview 
 [Dashboard](uber_dashboard.png)
-
 ### Pickup Locations  
 [Map](mappowerbi.png)
-
 ##  Final Report
 
 The full analysis, methodology, results, and business recommendations are available in:  
