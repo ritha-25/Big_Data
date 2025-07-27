@@ -40,6 +40,7 @@ Python was used to:
 ## Fare distribution
 [Fare distribution](fare_distribution_graph.png)
 ## Power BI Dashboard
+To know more and interactivity about graphs please visit google drive that contains power dashboard link,and download the file to get more.
 [Power BI Link]([(https://drive.google.com/file/d/1Egeu8xTyTVxENkeifwv39tSMBJApBiiN/view?usp=drive_link)]
 
 
