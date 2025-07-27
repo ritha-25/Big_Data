@@ -82,24 +82,11 @@ Fare outliers	Detected and removed during data cleaning
 As Conclusion
 The Uber Fares dataset provides valuable insights into user behavior, pricing trends, and ride demand. By combining Python’s data processing power with Power BI’s visualization tools, we successfully built a flexible and informative dashboard. This setup allows business stakeholders to interact with the data and make informed decisions.
 
-Based on the analysis:
-I would recommend to :
-Driver Allocation: Increase availability in central NYC during peak hours
+In this report you can find following files in this big_data_repo
 
-Surge Pricing: Adjust dynamically based on hour and weekday
-
-Marketing Focus: Promote off-peak ride discounts to balance demand
-
-Outlier Monitoring: Flag and review fares significantly higher than average
-
-📎 Attachments & Deliverables
-uber_cleaned.csv and uber_enhanced.csv (data folder)
-
-uber_dashboard.pbix (Power BI dashboard)
-
-eda_and_cleaning.py (Python script)
-
-Screenshots of visualizations and development stages
+uber_cleaned.csv and uber_enhanced.csv 
+big_assign.pbix (Power BI dashboard)
+uber_notebook.ipynb 
 
 Student: INGABIRE NZARAMBA Ritha
 Course: INSY 8413 – Introduction to Big Data Analytics
