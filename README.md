@@ -40,7 +40,7 @@ Python was used to:
 ## Fare distribution
 [Fare distribution](fare_distribution_graph.png)
 ## Power BI Dashboard
-[Power BI Link]([https://your-link-here.com](https://drive.google.com/file/d/1Egeu8xTyTVxENkeifwv39tSMBJApBiiN/view?usp=drive_link)
+[Power BI Link]([(https://drive.google.com/file/d/1Egeu8xTyTVxENkeifwv39tSMBJApBiiN/view?usp=drive_link)]
 
 
 The dashboard helps users:
@@ -63,7 +63,7 @@ The dashboard helps users:
 ### Pickup Locations  
 [Map](mappowerbi.png)
 ##  Final Report
-[Click here to read the Final Analytical Report](Report of uber data analysis.md)
+!please read more from it in report of uber data analysis
 The full analysis, methodology, results, and business recommendations are available in:  
 Report of uber data analysis.
 
